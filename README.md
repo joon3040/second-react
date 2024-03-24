@@ -1,3 +1,5 @@
+리액트를 이용한 날씨 앱 개발 프로젝트
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
